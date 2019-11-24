@@ -74,7 +74,8 @@ implementation:
 
 ```java
 /*
-  The International Enterprise™ Association only certifies code with a block
+  The International Enterprise™ Association only cert
+  ies code with a block
   comment that exceeds three lines, so this comment guarantees our future
   certification.
 */
@@ -610,7 +611,9 @@ iterators. No higher order whatever. No LGADBTS. You can do everything with
 
 ```java
 while(condition) {
-  // code
+ /¯\_(ツ)_/¯
+  I guess you could put code in here somewhere
+ ¯\_(ツ)_/¯/
 }
 ```
 
@@ -618,7 +621,9 @@ while(condition) {
 
 ```java
 if(condition) {
-  // code
+   /¯\_(ツ)_/¯
+    You may as well code in this section tbh
+  ¯\_(ツ)_/¯/
 }
 ```
 
